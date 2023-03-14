@@ -1,4 +1,7 @@
 # React-basics
+- States and props b/w components
+https://jscomplete.com/playground/rgs1.5
+
 React basics 
 **FEATURES**:
 - Open source JS library for building user interfaces 
