@@ -1,6 +1,6 @@
-# React-basics
-- States and props b/w components
-https://jscomplete.com/playground/rgs1.5
+# Concepts
+- Pass States,props and handlers b/w components
+- https://jscomplete.com/playground/s907565
 
 React basics 
 **FEATURES**:
