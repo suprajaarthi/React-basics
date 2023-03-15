@@ -13,6 +13,7 @@
 - https://jscomplete.com/playground/rest-spread
 - https://jscomplete.com/playground/template-strings
 - https://jscomplete.com/playground/classes
+- https://jscomplete.com/playground/promises
 
 **FEATURES**:
 - Open source JS library for building user interfaces 
