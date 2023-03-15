@@ -12,6 +12,7 @@
 - https://jscomplete.com/playground/destructuring 
 - https://jscomplete.com/playground/rest-spread
 - https://jscomplete.com/playground/template-strings
+- https://jscomplete.com/playground/classes
 
 **FEATURES**:
 - Open source JS library for building user interfaces 
