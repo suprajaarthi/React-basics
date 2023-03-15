@@ -15,13 +15,6 @@
 - https://jscomplete.com/playground/classes
 - https://jscomplete.com/playground/promises
 
-- When we use spread operator with an oject like this in react component , all the properties of the object will become props of that component 
-```
-<Card {...testData[0]/>
-<Card {...testData[1]/>
-```
-- wheras testdata is a json to define properties like name,email and age of an object 
-
 **FEATURES**:
 - Open source JS library for building user interfaces 
 - Not a open framework 
