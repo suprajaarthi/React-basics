@@ -6,6 +6,7 @@
 - https://jscomplete.com/playground/const
 - https://jscomplete.com/playground/why-const
 - https://jscomplete.com/playground/arrow-vs-regular-functions
+- https://jscomplete.com/playground/object-literals
 
 
 **FEATURES**:
