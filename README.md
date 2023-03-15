@@ -2,7 +2,12 @@
 - Pass States,props and handlers b/w components
 - https://jscomplete.com/playground/s907565
 
-React basics 
+**JS** 
+- https://jscomplete.com/playground/const
+- https://jscomplete.com/playground/why-const
+- https://jscomplete.com/playground/arrow-vs-regular-functions
+
+
 **FEATURES**:
 - Open source JS library for building user interfaces 
 - Not a open framework 
